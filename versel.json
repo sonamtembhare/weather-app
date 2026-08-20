@@ -1,5 +1,5 @@
 {
-    "$schema": "https://openapi.vercel.sh/vercel.json",
+    "$schema": "https://github.com/sonamtembhare/weather-app.git",
     "rewrites": [
         {
             "source": "/(.*)",
