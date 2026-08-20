@@ -1,5 +1,5 @@
 {
-    "$schema": "https://github.com/sonamtembhare/weather-app.git",
+    "$schema": "https://weather-app-gum4.vercel.app/",
     "rewrites": [
         {
             "source": "/(.*)",

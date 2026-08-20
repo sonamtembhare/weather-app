@@ -1,4 +1,4 @@
-import Weather from "./components/weather";
+import Weather from "./components/Weather";
 // import Weather from "./src/components/Weather";
 import "./App.css";
 
